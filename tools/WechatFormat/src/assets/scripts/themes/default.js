@@ -16,7 +16,7 @@ var defaultTheme = {	//最新版
     h2: {
       'font-weight': 'bolder',	//增
       'text-align':'left',	//改
-      'font-size': '17px',	//改
+      'font-size': '16px',	//改
       'margin': '20px 10px 20px 10px',
       'padding-left': '10px',	//内边距
       'border-left': '5px solid rgb(255,76,64)',	//左边框样式
